@@ -1,0 +1,62 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.con{
+    background-color: #dbdfe3;
+}
+.container{
+    background-color: #f5f6f6;
+}
+.google{
+    color: rgb(188, 188, 8);
+}
+.left ul a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.374);
+    
+}
+.left ul{
+    list-style: none;
+}
+.logo{
+  height: 50px;
+  width: 50px;
+}
+.title{
+    font-size: 14px;
+}
+
+.log{
+    transition-property: background-color;
+    transition-duration: .5s;
+}
+.log:hover{
+    color: black;
+    background-color: rgb(41, 239, 41);
+    
+}
+.left ul a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.374);
+    
+}
+.left ul{
+    list-style: none;
+}
+.category ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+
+}
+.category ul{
+    list-style: none;
+}
+.list:hover{
+    font-weight: bold;
+    color: black;
+}
+.fre{
+    color: blue !important;
+}
